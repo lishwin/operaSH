@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'ligenshi.com',
-  domain: 'https://wiry-bakery-755.notion.site/ligenshi-com-d2939480de3a4effa5f8ce419d63f272',
+  name: '上戏22歌剧制作班 歌剧舞台管理',
+  domain: 'stagemanager.me',
   author: 'Brandon Li Genshi',
 
   // open graph metadata (optional)
-  description: 'Brnadon Li Genshi',
+  description: '上戏22歌剧制作班 歌剧舞台管理 线上课堂',
 
   // social usernames (optional)
-  twitter: 'lishwin',
-  github: 'lishwin',
-  linkedin: '--',
+  // twitter: '-',
+  // github: '-',
+  // linkedin: '--',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
